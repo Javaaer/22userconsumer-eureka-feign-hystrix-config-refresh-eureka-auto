@@ -1,2 +1,2 @@
 your:
-  name: 22userconsumer-eureka-feign-hystrix-config-refresh-eureka-auto.wangqi。自动同步公网上的配置文件
+  name: 22userconsumer-eureka-feign-hystrix-config-refresh-eureka-auto-dev.yml。自动更新想测试时手动更新的地址
