@@ -1,2 +1,2 @@
 your:
-  name: 22userconsumer-eureka-feign-hystrix-config-refresh-eureka-auto-dev.yml。自动更新想测试时手动更新的地址
+  name: 22userconsumer-eureka-feign-hystrix-config-refresh-eureka-auto-dev.yml。自动更新想测试时手动更新的地址：http://localhost:12010/actuator/bus-refresh ，这个地址还要绑定仓库的webhook，当gitHub配置文件一更新提交就触发webhook自动刷新
